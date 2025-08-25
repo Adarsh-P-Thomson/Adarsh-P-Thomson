@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Adarsh P. Thomson! 👋
+
+I’m a passionate full-stack developer who loves building **complete and polished applications**—from the database and APIs to the front-end UI.
 
 ##  Let’s Connect!
 
