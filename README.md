@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+##  Let’s Connect!
+
+- **LinkedIn**: [Adarsh P. Thomson](https://www.linkedin.com/in/adarsh-p-thomson-81990b259/)  
+- Looking for collaboration or just want to say hi? Reach out—I’m always open to interesting ideas and projects!
+
+---
+
 <!--
 **Adarsh-P-Thomson/Adarsh-P-Thomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
