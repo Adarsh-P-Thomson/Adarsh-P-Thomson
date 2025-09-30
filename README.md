@@ -2,7 +2,7 @@
 
 I'm a Computer Science student with a deep passion for **solving complex problems** and building impactful solutions. I thrive on technical challenges that require creative thinking—whether it's designing secure systems, training deep learning models, or architecting full-stack applications from the ground up.
 
-Beyond coding, I'm driven by **leadership and innovation**. I founded and chair the IEEE Computer Society Student Branch Chapter and Maker Space at my university, organizing hackathons, technical events, and mentoring fellow students. I believe in fostering collaboration, empowering teams, and creating environments where ideas can flourish.
+Beyond coding, I'm driven by **leadership and innovation**. I believe in fostering collaboration, empowering teams, and creating environments where ideas can flourish.
 
 I'm naturally curious, always exploring new technologies—from **AI and cloud computing** to **secure system design** and web development. I love the entire journey: from ideation and planning to deployment and impact. Whether leading a team or diving deep into algorithms, I'm motivated by the challenge and the opportunity to create something meaningful.
 
