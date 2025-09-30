@@ -2,7 +2,8 @@
 
 I’m a passionate full-stack developer who loves building **complete and polished applications**—from the database and APIs to the front-end UI.
 
-<img width="1024" height="747" alt="image" src="https://github.com/user-attachments/assets/f3659b93-fb49-482b-b15e-fd280b3c5660" />
+<img width="1024" height="575" alt="image 4" src="https://github.com/user-attachments/assets/b2bbe889-f87d-4098-90b4-a0eac73dc19d" />
+
 
 
 
