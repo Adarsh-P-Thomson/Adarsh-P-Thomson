@@ -2,6 +2,9 @@
 
 I’m a passionate full-stack developer who loves building **complete and polished applications**—from the database and APIs to the front-end UI.
 
+<img width="1024" height="747" alt="image" src="https://github.com/user-attachments/assets/1c0ed29e-6a60-4d5a-ad41-f4b4812b4dcf" />
+
+
 ##  Let’s Connect!
 
 - **LinkedIn**: [Adarsh P. Thomson](https://www.linkedin.com/in/adarsh-p-thomson-81990b259/)  
