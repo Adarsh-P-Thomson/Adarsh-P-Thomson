@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adarsh P. Thomson - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Hyperspace transition overlay -->
+    <div id="hyperspace-overlay" class="hyperspace-overlay"></div>
+    
+    <!-- Kratos Axe Animation -->
+    <div id="kratos-axe" class="kratos-axe">⚔️</div>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <span class="logo-text">APT</span>
+                <span class="logo-subtitle">// Portfolio</span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link active">Home</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#skills" class="nav-link">Skills</a></li>
+                <li><a href="#interests" class="nav-link">Interests</a></li>
+                <li><a href="projects.html" class="nav-link hyperspace-link">Explore More</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="stars"></div>
+        <div class="twinkling"></div>
+        <div class="hero-content">
+            <div class="hero-text">
+                <h1 class="glitch" data-text="ADARSH P. THOMSON">ADARSH P. THOMSON</h1>
+                <p class="hero-subtitle typing-text" id="typing-text"></p>
+                <div class="hero-buttons">
+                    <a href="#about" class="btn btn-primary">
+                        <span>Initialize Mission</span>
+                    </a>
+                    <a href="projects.html" class="btn btn-secondary hyperspace-link">
+                        <span>View Projects</span>
+                    </a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="image-frame">
+                    <img id="profile-image" src="" alt="Adarsh P. Thomson">
+                    <div class="image-overlay"></div>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span>Scroll Down</span>
+            <i class="fas fa-chevron-down"></i>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">01.</span>
+                <span class="title-text">About Me</span>
+                <span class="title-line"></span>
+            </h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p id="bio-text-1" class="fade-in"></p>
+                    <p id="bio-text-2" class="fade-in"></p>
+                    <div class="about-stats">
+                        <div class="stat-item">
+                            <div class="stat-icon">🎯</div>
+                            <div class="stat-text">
+                                <h3>Focus</h3>
+                                <p>Complex Problem Solving</p>
+                            </div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-icon">🚀</div>
+                            <div class="stat-text">
+                                <h3>Drive</h3>
+                                <p>Innovation & Leadership</p>
+                            </div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-icon">💡</div>
+                            <div class="stat-text">
+                                <h3>Approach</h3>
+                                <p>Creative & Strategic</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">02.</span>
+                <span class="title-text">Skills & Arsenal</span>
+                <span class="title-line"></span>
+            </h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3><i class="fas fa-code"></i> Languages</h3>
+                    <div id="languages-list" class="skill-items"></div>
+                </div>
+                <div class="skill-category">
+                    <h3><i class="fas fa-layer-group"></i> Frameworks</h3>
+                    <div id="frameworks-list" class="skill-items"></div>
+                </div>
+                <div class="skill-category">
+                    <h3><i class="fas fa-tools"></i> Tools</h3>
+                    <div id="tools-list" class="skill-items"></div>
+                </div>
+                <div class="skill-category">
+                    <h3><i class="fas fa-brain"></i> Interests</h3>
+                    <div id="interests-list" class="skill-items"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interests Section - Books & Games -->
+    <section id="interests" class="interests">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">03.</span>
+                <span class="title-text">What I Love</span>
+                <span class="title-line"></span>
+            </h2>
+            
+            <!-- Books Section -->
+            <div class="interest-subsection">
+                <h3 class="subsection-title">
+                    <i class="fas fa-book"></i> Books That Inspire
+                </h3>
+                <div class="books-grid" id="books-grid"></div>
+            </div>
+
+            <!-- Games Section -->
+            <div class="interest-subsection">
+                <h3 class="subsection-title">
+                    <i class="fas fa-gamepad"></i> Games I Play
+                </h3>
+                <div class="games-grid" id="games-grid"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Quick Preview Section -->
+    <section class="quick-preview">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">04.</span>
+                <span class="title-text">Quick Overview</span>
+                <span class="title-line"></span>
+            </h2>
+            <div class="preview-grid">
+                <div class="preview-card">
+                    <div class="preview-icon">💼</div>
+                    <h3>Projects</h3>
+                    <p>Innovative solutions and technical challenges</p>
+                    <a href="projects.html#projects" class="preview-link hyperspace-link">View All →</a>
+                </div>
+                <div class="preview-card">
+                    <div class="preview-icon">🏆</div>
+                    <h3>Certificates</h3>
+                    <p>Professional certifications and achievements</p>
+                    <a href="projects.html#certificates" class="preview-link hyperspace-link">View All →</a>
+                </div>
+                <div class="preview-card">
+                    <div class="preview-icon">🎨</div>
+                    <h3>Freelance Work</h3>
+                    <p>Client projects and consulting work</p>
+                    <a href="projects.html#freelance" class="preview-link hyperspace-link">View All →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">
+                <span class="title-number">05.</span>
+                <span class="title-text">Get In Touch</span>
+                <span class="title-line"></span>
+            </h2>
+            <div class="contact-content">
+                <p class="contact-text">
+                    I'm always open to new opportunities, collaborations, and interesting conversations. 
+                    Whether you have a project in mind or just want to connect, feel free to reach out!
+                </p>
+                <div class="social-links">
+                    <a id="linkedin-link" href="#" target="_blank" class="social-link">
+                        <i class="fab fa-linkedin"></i>
+                        <span>LinkedIn</span>
+                    </a>
+                    <a id="github-link" href="#" target="_blank" class="social-link">
+                        <i class="fab fa-github"></i>
+                        <span>GitHub</span>
+                    </a>
+                    <a id="email-link" href="#" class="social-link">
+                        <i class="fas fa-envelope"></i>
+                        <span>Email</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Adarsh P. Thomson. Built with passion and code.</p>
+            <p class="footer-quote">"May the Force be with you, and the code be ever in your favor."</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
