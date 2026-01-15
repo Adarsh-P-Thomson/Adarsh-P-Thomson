@@ -10,7 +10,7 @@ Interesting facts about me :
 - Ideas just pop up in my head sometimes like Eureka!!!
 - I also play Games Sometimes
 - Batman is my favorite person and Love DC Universe
-- Also a fan of STAR WARS . May the force be wtih you!!!
+- Also a fan of STAR WARS . May the force be with you!!!
 
 <img width="700" height="394" alt="image 4" src="https://github.com/user-attachments/assets/b2bbe889-f87d-4098-90b4-a0eac73dc19d" />
 
