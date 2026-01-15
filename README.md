@@ -6,12 +6,16 @@ Beyond coding, I'm driven by **leadership and innovation**. I believe in fosteri
 
 I'm naturally curious, always exploring new technologies—from **AI and cloud computing** to **secure system design** and web development. I love the entire journey: from ideation and planning to deployment and impact. Whether leading a team or diving deep into algorithms, I'm motivated by the challenge and the opportunity to create something meaningful.
 
+Interesting fact about me : 
+- Ideas just pop up in my head sometimes like Eureka!!!
+- I Also Play Games Sometimes
+
 <img width="700" height="394" alt="image 4" src="https://github.com/user-attachments/assets/b2bbe889-f87d-4098-90b4-a0eac73dc19d" />
 
 
 ##  Let's Connect!
 
-- **LinkedIn**: [Adarsh P. Thomson](https://www.linkedin.com/in/adarsh-p-thomson-81990b259/)  
+- **LinkedIn**: [Adarsh P. Thomson](https://www.linkedin.com/in/adarsh-p-thomson-81990b259/)  or message me on dicord at ```killmonger.2328```
 - Looking for collaboration or just want to say hi? Reach out—I'm always open to interesting ideas and projects!
 
 ---
