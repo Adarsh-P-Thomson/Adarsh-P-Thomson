@@ -6,9 +6,11 @@ Beyond coding, I'm driven by **leadership and innovation**. I believe in fosteri
 
 I'm naturally curious, always exploring new technologies—from **AI and cloud computing** to **secure system design** and web development. I love the entire journey: from ideation and planning to deployment and impact. Whether leading a team or diving deep into algorithms, I'm motivated by the challenge and the opportunity to create something meaningful.
 
-Interesting fact about me : 
+Interesting facts about me : 
 - Ideas just pop up in my head sometimes like Eureka!!!
-- I Also Play Games Sometimes
+- I also play Games Sometimes
+- Batman is my favorite person and Love DC Universe
+- Also a fan of STAR WARS . May the force be wtih you!!!
 
 <img width="700" height="394" alt="image 4" src="https://github.com/user-attachments/assets/b2bbe889-f87d-4098-90b4-a0eac73dc19d" />
 
