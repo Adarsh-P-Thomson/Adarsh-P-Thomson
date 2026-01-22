@@ -4,7 +4,7 @@
 
 I’m a **Computer Science student** passionate about designing **secure, scalable, and intelligent systems**. I enjoy working at the intersection of **software engineering, system architecture, and applied AI**, where problems are complex and solutions actually matter.
 
-I don’t just code features — I **architect solutions**. From low-level system design to full-stack applications, I love understanding *how things work under the hood* and pushing them further.
+I don’t just code features - I **architect solutions**. From low-level system design to full-stack applications, I love understanding *how things work under the hood* and pushing them further.
 
 ---
 
