@@ -1,57 +1,98 @@
-# 👋 Hi, I’m **Adarsh P. Thomson** 👽
+# Hi, I'm **Adarsh P. Thomson** 👋
 
-> *Builder of systems, breaker of assumptions, solver of hard problems.*
-
-I’m a **Computer Science student** passionate about designing **secure, scalable, and intelligent systems**. I enjoy working at the intersection of **software engineering, system architecture, and applied AI**, where problems are complex and solutions actually matter.
-
-I don’t just code features - I **architect solutions**. From low-level system design to full-stack applications, I love understanding *how things work under the hood* and pushing them further.
+> **Engineer • System Architect • AI Builder**
+>
+> *Building secure, scalable systems that solve real-world problems.*
 
 ---
 
-## 🚀 What I Do
+## About Me
 
-* 🔐 **Security & Systems** — Secure architectures, authentication systems, encryption, privacy-first designs
-* 🤖 **AI / ML Engineering** — Applied ML, generative systems, automation, intelligent tooling
-* ☁️ **Backend & Cloud** — Scalable APIs, databases, distributed systems, cloud deployments
-* 🧠 **Problem Solving** — Algorithms, performance optimization, system trade-offs
-* 🧩 **Full-Stack Development** — From idea → design → build → deploy
+I'm an engineer passionate about building software that is reliable, scalable, and designed to last.
 
-I’m especially interested in **building infrastructure-level software** — things that other systems depend on.
+My interests span **system architecture**, **backend engineering**, **distributed systems**, **security**, and **applied AI**. I enjoy tackling complex engineering problems, designing clean architectures, and creating infrastructure that enables other products to succeed.
+
+Whether it's architecting backend platforms, designing secure systems, or building intelligent tools, I enjoy understanding how things work beneath the surface and improving them.
 
 ---
 
-## 🧠 Mindset & Values
+## What I'm Building
 
-* I enjoy **hard problems** more than easy wins
-* I believe **clarity beats cleverness**
-* I value **security, correctness, and long-term thinking**
-* I like leading teams that **build real things**, not just demos
-
-I’m naturally curious and often get spontaneous *“Eureka!”* moments that turn into projects 😄
-
----
-
-## 🛠️ Tech I Work With
-
-**Languages:**
-`Java` · `C++` · `Python` · `JavaScript` · `Go` · `Rust`
-
-**Domains:**
-`System Design` · `Cybersecurity` · `AI/ML` · `Distributed Systems` · `Databases`
-
-**Tools & Platforms:**
-`Linux` · `Docker` · `Git` · `PostgreSQL` · `MongoDB` · `Cloud (GCP/AWS)`
+* 🏗️ Infrastructure & platform software
+* 🤖 AI-powered products and automation
+* 🔐 Secure, privacy-first systems
+* ☁️ Cloud-native backend architectures
+* ⚡ High-performance APIs and services
+* 🧩 Developer tools and open-source projects
 
 ---
 
-## 🦇 Fun Facts
+## Engineering Philosophy
 
-* 💡 Ideas randomly hit me like *Eureka!* moments
-* 🎮 I game occasionally
-* 🦇 **Batman** is my favorite fictional character (DC > Marvel)
-* 🌌 Huge **Star Wars** fan — *May the Force be with you*
+```text
+Build for reliability.
+Design for scale.
+Optimise for simplicity.
+Secure by default.
+Keep learning.
+```
 
 ---
+
+## Technologies
+
+**Languages**
+
+`Java` • `Go` • `Rust` • `Python` • `C++` • `JavaScript`
+
+**Areas**
+
+`System Design`
+`Distributed Systems`
+`Backend Engineering`
+`Cybersecurity`
+`Artificial Intelligence`
+`Cloud Infrastructure`
+`Databases`
+
+**Tools**
+
+`Linux`
+`Docker`
+`Git`
+`PostgreSQL`
+`MongoDB`
+`AWS`
+`Google Cloud`
+
+---
+
+## Interests
+
+I'm particularly interested in engineering systems that sit beneath applications rather than applications themselves.
+
+Current areas I'm exploring include:
+
+* Distributed Systems
+* AI Infrastructure
+* Agentic Systems
+* Developer Experience
+* System Security
+* Cloud Architecture
+
+---
+
+## Beyond Code
+
+* 🦇 Batman fan
+* 🌌 Star Wars enthusiast
+* 💡 Constantly sketching new product ideas
+* ☕ Engineering discussions over small talk
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,go,rust,js,react,nextjs,nodejs,spring,postgres,mongodb,docker,linux,git,gcp,aws" />
+</p>
+
 
 ## 🤝 Let’s Connect
 
