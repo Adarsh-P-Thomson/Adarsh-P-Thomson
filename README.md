@@ -32,41 +32,41 @@ Whether it's architecting backend platforms, designing secure systems, or buildi
 
 ### Languages
 
-```html
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,go,rust,cpp,python,javascript" />
 </p>
-```
+
 
 ---
 
 ### Backend & Frameworks
 
-```html
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,spring,nextjs,react" />
 </p>
-```
+
 
 ---
 
 ### Databases & Cloud
 
-```html
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,gcp,aws" />
 </p>
-```
+
 
 ---
 
 ### DevOps & Tools
 
-```html
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" />
 </p>
-```
+
 
 ---
 
