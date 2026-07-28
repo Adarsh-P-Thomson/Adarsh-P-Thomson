@@ -29,41 +29,44 @@ Whether it's architecting backend platforms, designing secure systems, or buildi
 
 ## Engineering Philosophy
 
-```text
-Build for reliability.
-Design for scale.
-Optimise for simplicity.
-Secure by default.
-Keep learning.
+
+### Languages
+
+```html
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,go,rust,cpp,python,javascript" />
+</p>
 ```
 
 ---
 
-## Technologies
+### Backend & Frameworks
 
-**Languages**
+```html
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,nextjs,react" />
+</p>
+```
 
-`Java` • `Go` • `Rust` • `Python` • `C++` • `JavaScript`
+---
 
-**Areas**
+### Databases & Cloud
 
-`System Design`
-`Distributed Systems`
-`Backend Engineering`
-`Cybersecurity`
-`Artificial Intelligence`
-`Cloud Infrastructure`
-`Databases`
+```html
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,gcp,aws" />
+</p>
+```
 
-**Tools**
+---
 
-`Linux`
-`Docker`
-`Git`
-`PostgreSQL`
-`MongoDB`
-`AWS`
-`Google Cloud`
+### DevOps & Tools
+
+```html
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" />
+</p>
+```
 
 ---
 
@@ -88,10 +91,6 @@ Current areas I'm exploring include:
 * 🌌 Star Wars enthusiast
 * 💡 Constantly sketching new product ideas
 * ☕ Engineering discussions over small talk
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,go,rust,js,react,nextjs,nodejs,spring,postgres,mongodb,docker,linux,git,gcp,aws" />
-</p>
 
 
 ## 🤝 Let’s Connect
